@@ -1,0 +1,90 @@
+C:\Users\thang\AppData\Local\CapCut\Videos
+
+LÀM GÌ ĐỂ THAY ĐỔI THÓI QUEN SỬ DỤNG ĐIỆN THOẠI , MÁY TÍNH HÀNG NGÀY CỦA CÁC CON ?
+
+Câu lạc bộ Công Nghệ và Sáng Tạo EVO, một không gian mở mà ở đó, đam mê và sáng tạo được khơi gợi qua mỗi bài học. Tại EVO, các con sẽ được tận tay lập trình, tạo dựng các trò chơi, ứng dụng hay website thông qua các nền tảng hiện đại như Scratch, Thunkable và Game Maker. Môi trường học tập chất lượng, cùng với hơn 1000+ mô hình robot đạt chuẩn Mỹ, sẽ là bệ phóng vững chắc cho sự sáng tạo không giới hạn của các con .Chỉ có tại EVO 75A Thủy Nguyên - KĐT Ecopark!
+#evoedu #evo #evoecopark #evohanoi #evoschool #evolaptrinh #evorobotics #evoeducation #coding #robotics
+
+- trao đổi thông tin 2 thầy trò(tên , tuổi , trường , nhà ở đâu , tìm hiểu về lập trình , định hướng về việc làm , giới thiệu tổng quan về web )
+- Mở codepen -> mở ảnh html css js để phân tích bố cục
+- Mục tiêu buổi học sẽ là tạp 1 trang web gt bản thân
+- GT các thẻ h1 , h2 , p và so sánh sự khác nhau 
+- Cấu tạo từng thẻ(mở thẻ  , đóng thẻ)
+- Cho học sinh thực hiện với thẻ h, p để gt bản thân
+- Phân tích hết quả từ html -> css 
+-Code css từng thẻ (xấu  sang đẹp , màu, size , căn chỉnh , )
+- Cho học sinh thực hiện lại
+- Tạo màu cho background
+- Code phần hình ảnh (src , weight, height , )
+- Code video (lấy iframe bên yt)
+- cho hs lực ra thuc hiện lại
+- Căn chỉnh ảnh , vd ra giữa ( cho vào body)
+-Hỏi cảm nhận học viên(còn khó ko , thắc mắc , thú vị k)
+
++++++Nhận xét phụ huynh 
+- chào hỏi  , Gt bản thân , Lý do ngồi nc vs phụ huynh
+-Nhận xét thái độ , 
+
+
+🌟 Cơ hội làm việc: Giảng viên Lập trình 💻🚀
+
+Chào cả nhà!
+
+Chúng tôi đang tìm kiếm những cá nhân đam mê và có kinh nghiệm trong lĩnh vực lập trình để tham gia đội ngũ giảng viên của chúng tôi tại [Tên Công Ty/Trung Tâm].
+
+🔍 Vị trí: Giảng viên Lập trình
+📍 Địa điểm làm việc: [Địa chỉ]
+💼 Loại hình công việc: Toàn thời gian/ Bán thời gian
+
+📝 Mô tả công việc:
+
+Giảng dạy các khóa học lập trình cơ bản đến nâng cao.
+Phát triển và chuẩn bị tài liệu học tập và bài giảng.
+Hỗ trợ học viên giải đáp thắc mắc và thúc đẩy quá trình học tập của họ.
+Tham gia vào quá trình phát triển nội dung và chương trình học.
+👨‍🏫 Yêu cầu công việc:
+
+Thành thạo ít nhất một ngôn ngữ lập trình (Python, Java, C++, etc.).
+Có kinh nghiệm trong việc giảng dạy hoặc huấn luyện là một lợi thế.
+Sẵn lòng học hỏi và chia sẻ kiến thức với người học.
+Kỹ năng giao tiếp tốt và khả năng làm việc nhóm.
+💡 Lợi ích:
+
+Môi trường làm việc năng động và sáng tạo.
+Cơ hội phát triển nghề nghiệp và thăng tiến.
+Được đào tạo và hỗ trợ để phát triển kỹ năng giảng dạy.
+Nếu bạn là người đam mê lập trình và mong muốn chia sẻ kiến thức của mình với cộng đồng, hãy gửi CV của bạn tới chúng tôi tại [email@example.com]. Chúng tôi rất mong được đón tiếp bạn vào đội ngũ!
+
+Hãy chia sẻ tin này với những người bạn mà bạn nghĩ có thể quan tâm. Cảm ơn bạn!
+
+#TuyểnDụng #GiảngViênLậpTrình #LậpTrình #CôngViệcMới #TuyểnDụngLậpTrình viên
+
+
+
+
+Với trái tim tràn đầy cảm ơn , CLB Công Nghệ Và Sáng Tạo EVO muốn gửi lời biết ơn sâu sắc tới tất cả các phụ huynh và các con . Hành trình của các con không chỉ là những thành công, mà còn là những nụ cười, những bước đi vững chắc, được dìu dắt bởi sự ấm áp và sự hỗ trợ vững chắc từ tình yêu của các ba mẹ.
+
+
+
+
+
+Nóng , Phát hiện trung tâm dạy lập trình Game và robotics miễn phí dành cho trẻ từ 6-15 tuổi giúp con khai phá tiềm năng về tư duy lập trình 
+Đã có rất nhiều ba mẹ đã cho con đăng kí tham gia các buổi học trải nghiệm miễn phí tại CLB Công Nghệ Và Sáng Tạo EVO 
+Đây là buổi học miễn phí giúp các con có cơ hội tiếp xúc với lập trình và sáng tạo
+Dựa vào đó để đánh giá được năng lực , khai phá tiềm năng công nghệ và tư duy logic trong con thông qua lập trình Scratch , GameMaker Cùng với Robotic với hàng ngàn bộ Vexgo , Vexiq
+Ngoài ra đây còn là hoạt động trải nghiệm giúp con định hình đam mê , vạch rõ mục tiêu tương lai 
+Đến với buổi học trải nghiệm của EVO , con được đánh giá năng lực về khả năng lập trình , tư duy logic để theo đuổi đam mê dưới dự dẫn dắt và đồng hành của các giảng viên là các chuyên gia về công nghệ có kinh nghiệm lâu năm
+Thông qua hoạt động này , ba mẹ sẽ biết được con có phù hợp với lĩnh vực này hay không , hướng phát triển phù hợp cho con là gì để dễ dàng định hướng và đồng hành cùng con trong tương lai
+Và Ba Mẹ ơi , EVOedu đang có hoạt động dạy trải nghiệm miễn phí trong tháng 5 này tại 75A TN ECOPARK, hãy nhanh tay đăng kí cho con tham gia ngay ba mẹ nhé!!
+
+
+Nóng, Phát hiện trung tâm dạy Lập trình Máy Tính và Lập trình Robotics miễn phí dành cho trẻ từ 6-17 tuổi giúp con khai phá tiềm năng về tư duy Lập trình và Lắp ráp 
+Đã có rất nhiều ba mẹ đã cho con đăng kí tham gia các buổi học trải nghiệm miễn phí tại Câu lạc bộ Công Nghệ Và Sáng Tạo EVO 
+Đây là buổi học miễn phí giúp các con có cơ hội tiếp xúc với Lập trình và sáng tạo Robot dựa trên những ý tưởng của các con
+Dựa vào đó để đánh giá được năng lực, khai phá tiềm năng công nghệ và tư duy logic trong con thông qua lập trình Scratch , Game, App Mobile, Website hay Cùng với hàng trăm các mẫu Robotic với hàng ngàn bộ VEX Go, VEX IQ
+Ngoài ra, đây còn là hoạt động trải nghiệm giúp con định hình đam mê , vạch rõ mục tiêu trong tương lai 
+Đến với buổi học trải nghiệm của EVO, con được đánh giá năng lực về khả năng lập trình , tư duy logic để theo đuổi đam mê dưới dự dẫn dắt và đồng hành của các giảng viên là các chuyên gia về công nghệ có kinh nghiệm lâu năm
+Thông qua hoạt động này, ba mẹ sẽ biết được con có phù hợp với lĩnh vực này hay không, hướng phát triển phù hợp cho con là gì để dễ dàng định hướng và đồng hành cùng con trong tương lai
+Và Ba Mẹ ơi , EVO đang có sự kiện dạy trải nghiệm miễn phí vào thứ 7 và chủ nhật hàng tuần tại 75A Thuỷ Nguyên ECOPARK, hãy nhanh tay đăng kí cho con tham gia ngay ba mẹ nhé ạ!!!
+
+
